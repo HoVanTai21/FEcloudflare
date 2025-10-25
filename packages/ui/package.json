@@ -1,0 +1,13 @@
+{
+  "name": "@ai-automation/ui",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "types": "index.tsx",
+  "type": "module",
+  "private": false,
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
